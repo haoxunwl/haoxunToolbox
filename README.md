@@ -5,3 +5,7 @@
 浩讯亿通电脑工具箱1.0.1 开源-免费-绿色-无毒-专业 问题反馈：邮箱zhangyuhao@haoxun.cc（请备注来意，以及遇到的问题并请附带提供截图或视频，感谢支持！） 官方QQ群：182352621  本程序采用python开发，采用MIT开源协议，可二次开发，欢迎大家在基于本程序上开发各种有意思好用好玩的功能！
 
 打包好并写好签名的版本： 
+<img width="1273" height="697" alt="屏幕截图 2025-11-18 185049" src="https://github.com/user-attachments/assets/36d8236a-4556-4b98-80ff-952d4cb201cf" />
+<img width="1273" height="689" alt="屏幕截图 2025-11-18 185059" src="https://github.com/user-attachments/assets/9549798c-4091-4b96-9bc9-f0d96075fe04" />
+<img width="1271" height="690" alt="屏幕截图 2025-11-18 185109" src="https://github.com/user-attachments/assets/29141dec-9d50-4d2e-9560-5083a057b4ec" />
+<img width="1263" height="689" alt="屏幕截图 2025-11-18 185234" src="https://github.com/user-attachments/assets/1c7bf1df-2d11-4400-8677-fa747be93b2f" />
